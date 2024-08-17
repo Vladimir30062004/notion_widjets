@@ -17,8 +17,8 @@ button,
 button:active {
   background-color: rgb(234,178,156);
   border: none;
-  width: 32px;
-  height: 30px;
+  width: 12px;
+  height: 10px;
   border-radius: 100%;
   text-align: center;
   box-shadow: 0.2em 0.2em rgb(194, 91, 44);
